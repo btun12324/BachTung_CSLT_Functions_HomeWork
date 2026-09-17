@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/PART1(EX1-EX5)/">
+    <Project Path="EX1/EX1.csproj" />
+    <Project Path="EX2/EX2.csproj" />
+    <Project Path="EX3/EX3.csproj" Id="2e6ad4d8-396e-4bd3-ba2e-91fe0c2b4057" />
+  </Folder>
+  <Folder Name="/PART2(EX6 - EX20)/" />
+</Solution>
