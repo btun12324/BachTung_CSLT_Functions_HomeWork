@@ -154,7 +154,20 @@ internal class EX620
         return (c * 1.8 + 32);
     }
 
+    public static int TimMin(int[] arr)
+    {
+        int temp = 0;
 
+        foreach ( int n in arr)
+        {
+            if (n < temp)
+            {
+                temp = n;
+            }
+        }
+
+        return temp;
+    }
 
     public static void EX06()
     {
